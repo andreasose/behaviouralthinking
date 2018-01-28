@@ -249,15 +249,15 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 3
+# [[menu.main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 3
 
 [[menu.main]]
-  name = "Contact"
+  name = "Contact Me"
   url = "#contact"
-  weight = 4
+  weight = 3
 
 # Taxonomies.
 [taxonomies]
@@ -270,4 +270,4 @@ defaultContentLanguageInSubdir = false
 
 # Configure the English version of the website.
 [Languages.en]
-  languageCode = "en-us"
+  languageCode = "en-uk"

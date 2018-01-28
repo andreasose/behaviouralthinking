@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Behavioural Economics",
-    "Psychology",
-    "Data Science"
+    "Data Science",
+    "Behavioural Science",
+    "Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
